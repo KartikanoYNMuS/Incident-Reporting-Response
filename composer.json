@@ -1,0 +1,16 @@
+{
+    "name": "incidentreporting/shikher",
+    "description": "a test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shikher Garg",
+            "email": "gauravjp50@gmail.com"
+        }
+    ],
+    "require": {
+
+        "php": "^5.6.21"
+    }
+}
